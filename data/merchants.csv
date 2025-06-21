@@ -1,0 +1,11 @@
+MerchantName,FraudReports,RefundRate,AvgUserRating
+Zomato,28,0.05,4.1
+Amazon,7,0.09,4.6
+Flipkart,42,0.28,2.2
+Swiggy,19,0.27,2.1
+Uber,4,0.19,3.7
+Myntra,42,0.2,4.5
+BigBasket,20,0.02,3.2
+Netflix,26,0.03,4.3
+Dominos,31,0.11,3.7
+Recharge,25,0.12,3.3

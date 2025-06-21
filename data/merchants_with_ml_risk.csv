@@ -1,0 +1,11 @@
+MerchantName,FraudReports,RefundRate,AvgUserRating,ML_Prediction,ML_RiskLevel
+Zomato,28,0.05,4.1,1,Medium
+Amazon,7,0.09,4.6,1,Medium
+Flipkart,42,0.28,2.2,2,High
+Swiggy,19,0.27,2.1,1,Medium
+Uber,4,0.19,3.7,1,Medium
+Myntra,42,0.2,4.5,2,High
+BigBasket,20,0.02,3.2,0,Low
+Netflix,26,0.03,4.3,1,Medium
+Dominos,31,0.11,3.7,1,Medium
+Recharge,25,0.12,3.3,1,Medium
